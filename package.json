@@ -13,24 +13,24 @@
   "dependencies": {
     "@emotion/react": "11.10.5",
     "react": "18.2.0",
-    "react-admin": "4.5.2",
+    "react-admin": "4.6.2",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@types/react": "18.0.24",
     "@types/react-dom": "18.0.8",
-    "@typescript-eslint/eslint-plugin": "5.43.0",
-    "@typescript-eslint/parser": "5.43.0",
+    "@typescript-eslint/eslint-plugin": "5.46.1",
+    "@typescript-eslint/parser": "5.46.1",
     "@vitejs/plugin-react": "2.2.0",
-    "eslint": "8.27.0",
+    "eslint": "8.30.0",
     "eslint-config-google": "0.14.0",
-    "eslint-plugin-react": "7.31.10",
-    "msw": "0.48.3",
-    "typescript": "4.9.3",
-    "vite": "3.2.4",
+    "eslint-plugin-react": "7.31.11",
+    "msw": "0.49.2",
+    "typescript": "4.9.4",
+    "vite": "3.2.5",
     "vite-plugin-favicon": "1.0.8",
-    "vite-plugin-fonts": "0.6.0",
-    "vite-tsconfig-paths": "3.5.2"
+    "vite-plugin-fonts": "0.7.0",
+    "vite-tsconfig-paths": "3.6.0"
   },
   "eslintIgnore": [
     ".eslintrc.js",
